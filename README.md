@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Hi👋%20I'm%20Min%20Young!&fontSize=30%&&fontAlignY=35)
 
-![Min Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldrn29&show_icons=true&theme=radical)
+![Min Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldrn29&show_icons=true&theme=calm)
 
 ---  
 
