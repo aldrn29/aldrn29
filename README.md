@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi👋%20I'm%20Min%20Young!&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Hi👋%20I'm%20Min%20Young!&fontSize=30%)
 
 ![Min Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldrn29&show_icons=true&theme=radical)
 
@@ -22,6 +22,3 @@
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white"/>
-
-  
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
