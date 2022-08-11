@@ -5,7 +5,7 @@
 ---  
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldrn29&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldrn29&layout=compact&hide=jupyter%20notebook&langs_count=6" />
 
 
 ### 🛠️ Tech Stack 🛠️      
