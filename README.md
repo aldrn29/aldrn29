@@ -1,9 +1,9 @@
-### Hi👋 I'm Min Young.
----  
+### Hi👋 I'm Min Young :)
+---     
 
 ![Min Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldrn29&show_icons=true&theme=calm)
 
----  
+---    
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldrn29&layout=compact&hide=jupyter%20notebook&langs_count=6" />
